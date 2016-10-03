@@ -12,9 +12,9 @@
     "url": "git://github.com/zazukoians/cancelable-fetch.git"
   },
   "keywords": [
-    "clusterize.js",
-    "clusterize",
-    "paging"
+    "fetch",
+    "cancel",
+    "cancelable"
   ],
   "author": "Zazuko GmbH <info@zazuko.com> (http://www.zazuko.com/)",
   "license": "MIT",
