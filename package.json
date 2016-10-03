@@ -1,0 +1,29 @@
+{
+  "name": "cancelable-fetch",
+  "version": "1.0.0",
+  "description": "Makes a fetch cancelable",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zazukoians/cancelable-fetch.git"
+  },
+  "keywords": [
+    "clusterize.js",
+    "clusterize",
+    "paging"
+  ],
+  "author": "Zazuko GmbH <info@zazuko.com> (http://www.zazuko.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zazukoians/cancelable-fetch/issues"
+  },
+  "homepage": "https://github.com/zazukoians/cancelable-fetch",
+  "devDependencies": {
+    "standard": "^8.3.0"
+  },
+  "readmeFilename": "README.md"
+}
